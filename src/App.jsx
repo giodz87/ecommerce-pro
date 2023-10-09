@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
-import MenuBar from "./components/menuBar";
+import MenuBar from "./components/MenuBar";
 import Info from "./components/Info";
 import Cart from "./components/Cart";
 import Slider from "./components/Slider";
